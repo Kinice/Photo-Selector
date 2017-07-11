@@ -9,6 +9,10 @@ html + css + jquery 仿微信上传图片界面及功能。
 
 预览地址：[https://kinice.github.io/Photo-Selector/](https://kinice.github.io/Photo-Selector/)
 
+手机扫码查看：
+
+![手机预览](./qr.png)
+
 
 ## Usage
 
