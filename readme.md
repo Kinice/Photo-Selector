@@ -5,7 +5,9 @@ html + css + jquery 仿微信上传图片界面及功能。
 使用了weui，当然也可以不用。
 
 ## 预览
-需在手机模式下预览。
+需在手机上或浏览器手机模式下预览。**浏览器若调至手机模式下显示不正常刷新即可**
+
+预览地址：[https://kinice.github.io/Photo-Selector/](https://kinice.github.io/Photo-Selector/)
 
 
 ## Usage
